@@ -16,7 +16,7 @@ Lien ressources LoRaWan :https://github.com/OliverBELLIARD/LoRaWAN.
 
 Lien ressources batterie :https://github.com/inassra/batterie.
 
-Lien ressources accéléromètre et GPS :
+Lien ressources accéléromètre et GPS :https://github.com/ValerianPRIOU/Badge-pour-travailleur-isole
 
 # Elements à ajouter au projet :
 
