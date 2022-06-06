@@ -1,5 +1,6 @@
 # PCB_TravailleurIsole
 
+# Lien des différentes parties du projet :
 Lien ressources LoRaWan :https://github.com/OliverBELLIARD/LoRaWAN.
 
 Lien ressources batterie :https://github.com/inassra/batterie.
