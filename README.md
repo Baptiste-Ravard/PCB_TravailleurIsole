@@ -1,5 +1,8 @@
 # PCB_TravailleurIsole
 
+Lien ressources LoRaWan :https://github.com/OliverBELLIARD/LoRaWAN
+Lien ressources batterie :
+Lien ressources accéléromètre et GPS :
 
 Notes sur ce qui n'allait pas, ce qu'il restait à voir :
 
