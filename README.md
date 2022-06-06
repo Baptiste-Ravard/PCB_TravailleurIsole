@@ -28,4 +28,9 @@ Valeur seuil de l'accélération complètement à revoir, notre projet était su
 
 Notre accélération finale est la norme des accélérations selon les axes x, y et z. Ne considérer que l'accélération selon z peut aussi être envisagé.
 
-Pour le schéma et le board du PCB, ne pas oublier de rajouter un via permettant de relier les plans de masse du dessus et du dessous du PCB.
+Pour le schéma et le board du PCB, ne pas oublier de rajouter un via permettant de relier les plans de masse du dessus et du dessous du PCB. Si ce n'est pas fait les régulateurs vont sauter à cause du microprocesseur qui ne recevra pas la bonne tension.
+
+# Ce que nous a apporté le projet :
+
+Pendant ce projet, nous avons appris à souder, déssouder (lors des erreurs), créer un PCB complexes et les erreurs pouvants etre faites.
+Nous avons aussi appris à travailler avec des personnes qu'on ne connassait pas. En tant qu'intégrateur, nous devions donner des deadlines, prendre connaissance des avancements dans chacune des équipes, mettre en connexion ces équipes et les aider si necessaire.
